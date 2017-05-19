@@ -1,0 +1,5 @@
+{
+  "name": "stm32_qei",
+  "description": "STM32 QEI driver",
+  "provider": "core"
+}
